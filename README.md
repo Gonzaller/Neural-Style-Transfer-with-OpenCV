@@ -21,8 +21,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`python neural_style_transfer_video.py --models models`
-
+pip install --upgrade pip
 
 
 ## Example Results
